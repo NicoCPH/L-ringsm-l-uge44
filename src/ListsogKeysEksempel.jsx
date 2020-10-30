@@ -1,5 +1,4 @@
 
-
 function PersonsList(props) {
     const persons = props.persons;
     const listItems = persons.map((person) =>
